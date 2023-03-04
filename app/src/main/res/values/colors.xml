@@ -16,4 +16,6 @@
     <color name="infoToastTextColor">#FFF</color>
     <color name="warningToastTextColor">#FFF</color>
 
+    <color name="ic_launcher_background">#FFFFFFFF</color>
+
 </resources>
